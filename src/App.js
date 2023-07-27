@@ -32,7 +32,7 @@ function App() {
       setMode('dark');
       document.body.style.backgroundColor = '#042743';
       showAlert("Dark mode hase been enable!", "success");
-      // document.title = 'TextUtils - Dark Mode';
+      document.title = 'TextUtils - Dark Mode';
 
       // setInterval(()=>{
       //   document.title = 'TextUtils is amazing mode';
@@ -46,7 +46,7 @@ function App() {
       setMode('light');
       document.body.style.backgroundColor = 'white';
       showAlert("Light mode hase been enable!", "success");
-      // document.title = 'TextUtils - Light Mode';
+      document.title = 'TextUtils - Light Mode';
     }
   }
 
