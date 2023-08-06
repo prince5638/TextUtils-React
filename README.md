@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+
+https://github.com/prince5638/TextUtils-React/assets/100819547/e3e4c211-dd10-4d24-8c95-99f8065ba367
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
